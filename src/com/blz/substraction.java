@@ -8,8 +8,8 @@ public class substraction {
         Scanner C = new Scanner(System.in);
         int a = C.nextInt();
         int b = C.nextInt();
-        int Substraction = a-b;
-        System.out.println("Substraction of two numbers " +Substraction);
+        int Substraction = a - b;
+        System.out.println("Substraction of two numbers " + Substraction);
     }
 
 }
